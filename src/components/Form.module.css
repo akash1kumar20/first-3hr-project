@@ -1,0 +1,30 @@
+.body {
+  border: 2px solid white;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  margin: 2rem;
+  padding: 1rem;
+  text-align: center;
+  border-radius: 1rem;
+  position: relative;
+  align-items: center;
+}
+.label {
+  font-size: 110%;
+  text-align: center;
+  margin: 1rem;
+  padding: 1rem;
+  font-weight: bold;
+}
+.btn {
+  font-size: larger;
+  border-radius: 1rem;
+  margin: 1rem;
+  padding-left: 1.2rem;
+  padding-right: 1.2rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  background-color: rgb(165, 42, 42);
+  color: white;
+  border: 1px solid white;
+}
